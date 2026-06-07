@@ -1,0 +1,4997 @@
+[
+  {
+    "id": "meow-slide",
+    "thumbnail": "https://JoyVibeZone.github.io/images/300.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archer-master-3d-castle-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/301.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-farm-empire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/302.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "halloween-stickman",
+    "thumbnail": "https://JoyVibeZone.github.io/images/303.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fish-shooting-fish-hunter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/304.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "underwater-survival-deep-dive",
+    "thumbnail": "https://JoyVibeZone.github.io/images/305.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "airways-maze",
+    "thumbnail": "https://JoyVibeZone.github.io/images/306.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brain-find-can-you-find-it",
+    "thumbnail": "https://JoyVibeZone.github.io/images/307.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "motorcycle-racer-road-mayhem",
+    "thumbnail": "https://JoyVibeZone.github.io/images/308.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "wave-chic-ocean-fashion-frenzy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/309.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "army-fight-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/310.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "limited-kaboom",
+    "thumbnail": "https://JoyVibeZone.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "food-card-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/312.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mental-hospital-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/313.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "worldcraft-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/314.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/315.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "king-io-world-war",
+    "thumbnail": "https://JoyVibeZone.github.io/images/316.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mobile-legends-slime-3v3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/317.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bot-machines",
+    "thumbnail": "https://JoyVibeZone.github.io/images/318.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "number-blast-2048",
+    "thumbnail": "https://JoyVibeZone.github.io/images/319.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-room-mystery-key",
+    "thumbnail": "https://JoyVibeZone.github.io/images/320.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://JoyVibeZone.github.io/images/321.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "poker-quest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/322.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "digit-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/323.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "knife-up-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/324.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "driftclicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/325.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "container-auction",
+    "thumbnail": "https://JoyVibeZone.github.io/images/326.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emilys-hotel-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/327.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/328.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "2v2-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/329.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "butterfly-shimai",
+    "thumbnail": "https://JoyVibeZone.github.io/images/330.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "parkour-block-6",
+    "thumbnail": "https://JoyVibeZone.github.io/images/331.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bulletstorm-zer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/332.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brain-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/333.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "grass-cutter-mowing-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/334.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweetsu-tile-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/335.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/336.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bird-sort-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/337.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hex-planet-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/338.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dragon-island-idle-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/339.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "escape-from-pizzeria",
+    "thumbnail": "https://JoyVibeZone.github.io/images/340.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pacman",
+    "thumbnail": "https://JoyVibeZone.github.io/images/341.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "football-heads-2025",
+    "thumbnail": "https://JoyVibeZone.github.io/images/342.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "obby-3d-sprunki-parkour",
+    "thumbnail": "https://JoyVibeZone.github.io/images/343.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "stickman-ragdoll-playground",
+    "thumbnail": "https://JoyVibeZone.github.io/images/344.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/345.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cell-to-singularity-mesozoic-valley",
+    "thumbnail": "https://JoyVibeZone.github.io/images/346.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/347.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idol-livestream-fashion-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/348.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "trading-card-store-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/349.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forgotten-treasure-2---match-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/350.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-superstars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/351.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/352.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "cryptoword",
+    "thumbnail": "https://JoyVibeZone.github.io/images/353.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "detective-holmes-hidden-object-game-jbm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/354.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duck-hunting-open-season",
+    "thumbnail": "https://JoyVibeZone.github.io/images/355.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sniper-3d-zombie",
+    "thumbnail": "https://JoyVibeZone.github.io/images/356.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "highway-racer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/357.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-art",
+    "thumbnail": "https://JoyVibeZone.github.io/images/358.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nugget-man-survival-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/359.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "guess-their-answer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/360.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farmer-rush-idle-farm-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/361.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "high-school-popular-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/362.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dungeon-clicker-rxx",
+    "thumbnail": "https://JoyVibeZone.github.io/images/363.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "princess-royal-wedding",
+    "thumbnail": "https://JoyVibeZone.github.io/images/364.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mahjong-pet-quest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/365.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "supermarket-sort-n-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/366.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "microplastics-feeding",
+    "thumbnail": "https://JoyVibeZone.github.io/images/367.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "valentine-s-day-proposal",
+    "thumbnail": "https://JoyVibeZone.github.io/images/368.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/369.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cursed-treasure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/370.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swarm-survivor-ygx",
+    "thumbnail": "https://JoyVibeZone.github.io/images/371.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "from-nerd-to-school-popular",
+    "thumbnail": "https://JoyVibeZone.github.io/images/372.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "bubble-shooter-candy-wheel-level-pack",
+    "thumbnail": "https://JoyVibeZone.github.io/images/373.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "cityidle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/374.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gang-merge-fight",
+    "thumbnail": "https://JoyVibeZone.github.io/images/375.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bridge-race",
+    "thumbnail": "https://JoyVibeZone.github.io/images/376.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sisyphus-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/377.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "elemental-dressup-magic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/378.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tasty-match-mahjong-pairs",
+    "thumbnail": "https://JoyVibeZone.github.io/images/379.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squid-challenge-play-to-survive",
+    "thumbnail": "https://JoyVibeZone.github.io/images/380.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "bodycamera-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/381.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "algerian-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/382.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-hero-survival-tower-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/383.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "ragdoll-factory-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/384.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "citymix-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/385.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "pouring-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/386.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "harbor-operator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/387.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "doomsday-zombie-td",
+    "thumbnail": "https://JoyVibeZone.github.io/images/388.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kirka-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/389.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "endless-siege",
+    "thumbnail": "https://JoyVibeZone.github.io/images/390.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "feudal-wars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/391.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/392.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "barrel-roller-amazing-runner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/393.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "college-girls-team-makeover",
+    "thumbnail": "https://JoyVibeZone.github.io/images/394.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "my-dogy-virtual-pet",
+    "thumbnail": "https://JoyVibeZone.github.io/images/395.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "fighter-stick-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/396.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "papas-cheeseria",
+    "thumbnail": "https://JoyVibeZone.github.io/images/397.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strike-breakout",
+    "thumbnail": "https://JoyVibeZone.github.io/images/398.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "highschool-mean-girls-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/399.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/400.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "vsco-girl-aesthetic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/401.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "papas-freezeria",
+    "thumbnail": "https://JoyVibeZone.github.io/images/402.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-mini-golf",
+    "thumbnail": "https://JoyVibeZone.github.io/images/403.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "classic-bowling",
+    "thumbnail": "https://JoyVibeZone.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cursed-treasure-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/405.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bloons-tower-defense-4-expansion",
+    "thumbnail": "https://JoyVibeZone.github.io/images/406.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://JoyVibeZone.github.io/images/407.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "hunt-and-seek",
+    "thumbnail": "https://JoyVibeZone.github.io/images/408.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "golf-orbit",
+    "thumbnail": "https://JoyVibeZone.github.io/images/409.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "tower-core-survivors",
+    "thumbnail": "https://JoyVibeZone.github.io/images/410.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toy-cars-3d-racing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/411.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "kawaii-realm-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/412.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "unpuzzle-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/413.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "family-tree-emoji",
+    "thumbnail": "https://JoyVibeZone.github.io/images/414.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-washing-fixing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/415.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "javelin-battle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/416.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-duo-escape-the-tomb",
+    "thumbnail": "https://JoyVibeZone.github.io/images/417.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "farm-block-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/418.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "diner-in-the-storm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/419.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gothic-story-rpg",
+    "thumbnail": "https://JoyVibeZone.github.io/images/420.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "game-cafe-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/421.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "panda-lu-treehouse",
+    "thumbnail": "https://JoyVibeZone.github.io/images/422.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "crazy-traffic-control",
+    "thumbnail": "https://JoyVibeZone.github.io/images/423.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "zombie-protocol",
+    "thumbnail": "https://JoyVibeZone.github.io/images/424.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexanaut-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/425.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-color-war",
+    "thumbnail": "https://JoyVibeZone.github.io/images/426.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://JoyVibeZone.github.io/images/427.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://JoyVibeZone.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-maze-control",
+    "thumbnail": "https://JoyVibeZone.github.io/images/429.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-tea",
+    "thumbnail": "https://JoyVibeZone.github.io/images/430.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/431.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bubble-spinner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/432.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-legend",
+    "thumbnail": "https://JoyVibeZone.github.io/images/433.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "candy-maker-dessert-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/434.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chessfield",
+    "thumbnail": "https://JoyVibeZone.github.io/images/435.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "airline-tycoon-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/436.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-manager-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/437.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "vice-city-driver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/438.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pixel-blast",
+    "thumbnail": "https://JoyVibeZone.github.io/images/439.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "67-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/440.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "paperio-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/441.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "bad-cat-angry-granny-prankster",
+    "thumbnail": "https://JoyVibeZone.github.io/images/442.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-archer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/443.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-roll-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "legend-of-dragon-hunt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/445.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gods-mixer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/446.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dream-pet-hotel",
+    "thumbnail": "https://JoyVibeZone.github.io/images/447.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://JoyVibeZone.github.io/images/448.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-mining-empire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/449.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "infiltrating-the-airship",
+    "thumbnail": "https://JoyVibeZone.github.io/images/450.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://JoyVibeZone.github.io/images/451.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "vex-x3m-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/452.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "the-garbaggio-hotel",
+    "thumbnail": "https://JoyVibeZone.github.io/images/453.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-jumper-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/454.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emberquest-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/455.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "weaponsmith-evolution-weapon-merge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/456.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "geometry-vibes-x-ball",
+    "thumbnail": "https://JoyVibeZone.github.io/images/457.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "yatzy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/458.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "las-vegas-poker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/459.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bladeorbit-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/460.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "perfect-piano",
+    "thumbnail": "https://JoyVibeZone.github.io/images/461.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://JoyVibeZone.github.io/images/462.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "the-queen-s-jewels",
+    "thumbnail": "https://JoyVibeZone.github.io/images/463.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://JoyVibeZone.github.io/images/464.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-ball-classic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/465.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "card-shuffle-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/466.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "air-block",
+    "thumbnail": "https://JoyVibeZone.github.io/images/467.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "drive-quest---car-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/468.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://JoyVibeZone.github.io/images/469.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tennis-masters",
+    "thumbnail": "https://JoyVibeZone.github.io/images/470.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "college-girl-coloring-dress-up",
+    "thumbnail": "https://JoyVibeZone.github.io/images/471.webp",
+    "genre": "Art, Casual, Dress-up"
+  },
+  {
+    "id": "roblox-christmas-dressup",
+    "thumbnail": "https://JoyVibeZone.github.io/images/472.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "pet-doctor-business-tycoon-pet-care-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/473.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "baseball",
+    "thumbnail": "https://JoyVibeZone.github.io/images/474.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "web-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/475.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anime-couple-avatar-maker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/476.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "toca-avatar-my-hospital",
+    "thumbnail": "https://JoyVibeZone.github.io/images/477.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "tower-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/478.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-rescue-pin",
+    "thumbnail": "https://JoyVibeZone.github.io/images/479.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robbotto",
+    "thumbnail": "https://JoyVibeZone.github.io/images/480.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "pumpkin-defense-merge-cannon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/481.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rolling-balls-sea-race",
+    "thumbnail": "https://JoyVibeZone.github.io/images/482.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fly-and-shoot-1-italian-bosses",
+    "thumbnail": "https://JoyVibeZone.github.io/images/483.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "obby-1-jump-per-click",
+    "thumbnail": "https://JoyVibeZone.github.io/images/484.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kour-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/485.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "isometric-escape-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/486.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bolts-and-nuts",
+    "thumbnail": "https://JoyVibeZone.github.io/images/487.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toca-teens-floating-beach-party",
+    "thumbnail": "https://JoyVibeZone.github.io/images/488.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wednesday-light-academia",
+    "thumbnail": "https://JoyVibeZone.github.io/images/489.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/490.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiles-of-the-simpsons",
+    "thumbnail": "https://JoyVibeZone.github.io/images/491.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "human-leap-evolution",
+    "thumbnail": "https://JoyVibeZone.github.io/images/492.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "theo-morinis-magical-resort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/493.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "math-obby",
+    "thumbnail": "https://JoyVibeZone.github.io/images/494.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "pixel-flow",
+    "thumbnail": "https://JoyVibeZone.github.io/images/495.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mage-s-secret",
+    "thumbnail": "https://JoyVibeZone.github.io/images/496.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "limited-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/497.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "alien-wreckage-1",
+    "thumbnail": "https://JoyVibeZone.github.io/images/498.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "city-drift-racing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/499.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "color-race-obby",
+    "thumbnail": "https://JoyVibeZone.github.io/images/500.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "oneline",
+    "thumbnail": "https://JoyVibeZone.github.io/images/501.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flames-fortune",
+    "thumbnail": "https://JoyVibeZone.github.io/images/502.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "lucky-vegas-blackjack",
+    "thumbnail": "https://JoyVibeZone.github.io/images/503.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "break-a-lucky-blocks-with-brainrots",
+    "thumbnail": "https://JoyVibeZone.github.io/images/504.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bladeblast-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/505.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://JoyVibeZone.github.io/images/506.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-fuse-xmr",
+    "thumbnail": "https://JoyVibeZone.github.io/images/507.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smartle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/508.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "i-am-prankster-taxi-driver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/509.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/510.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "underwater-adventures-match-3-utk",
+    "thumbnail": "https://JoyVibeZone.github.io/images/511.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/512.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://JoyVibeZone.github.io/images/513.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wood-blocks",
+    "thumbnail": "https://JoyVibeZone.github.io/images/514.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "single-line-puzzle-drawing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/515.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mom-s-diary-cooking-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/516.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://JoyVibeZone.github.io/images/517.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-epic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "same-game-collapse",
+    "thumbnail": "https://JoyVibeZone.github.io/images/519.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ludo-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/520.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dice-fusion",
+    "thumbnail": "https://JoyVibeZone.github.io/images/521.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tile-away-story",
+    "thumbnail": "https://JoyVibeZone.github.io/images/522.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-wood-block",
+    "thumbnail": "https://JoyVibeZone.github.io/images/523.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-room-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/524.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "100-doors-puzzle-box",
+    "thumbnail": "https://JoyVibeZone.github.io/images/525.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "puzzle-lub",
+    "thumbnail": "https://JoyVibeZone.github.io/images/526.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-bubble",
+    "thumbnail": "https://JoyVibeZone.github.io/images/527.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocops",
+    "thumbnail": "https://JoyVibeZone.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-dash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/529.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "goods-triple-match-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/530.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-vs-zombies",
+    "thumbnail": "https://JoyVibeZone.github.io/images/531.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "toy-rider",
+    "thumbnail": "https://JoyVibeZone.github.io/images/532.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "loop-ghost",
+    "thumbnail": "https://JoyVibeZone.github.io/images/533.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fire-ball-and-water-ball-parkour-love-balls",
+    "thumbnail": "https://JoyVibeZone.github.io/images/534.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "battalion-commander-1917",
+    "thumbnail": "https://JoyVibeZone.github.io/images/535.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/536.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-merge-2048",
+    "thumbnail": "https://JoyVibeZone.github.io/images/537.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "3-tiles",
+    "thumbnail": "https://JoyVibeZone.github.io/images/538.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pet-cafe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/539.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "elevator-fight",
+    "thumbnail": "https://JoyVibeZone.github.io/images/540.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "stickman-troll-thief-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/541.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "two-supra-drifters",
+    "thumbnail": "https://JoyVibeZone.github.io/images/542.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "sudoku-garden",
+    "thumbnail": "https://JoyVibeZone.github.io/images/543.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "little-alchemy-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "madness-project-nexus",
+    "thumbnail": "https://JoyVibeZone.github.io/images/545.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjongg-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "football-stars-championship",
+    "thumbnail": "https://JoyVibeZone.github.io/images/547.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/548.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "mega-makeup-seasons-best",
+    "thumbnail": "https://JoyVibeZone.github.io/images/549.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wired-chicken-inc",
+    "thumbnail": "https://JoyVibeZone.github.io/images/550.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-in-geometry-dash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/551.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "super-tank-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/552.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bubble-sorting-infinite-remastered",
+    "thumbnail": "https://JoyVibeZone.github.io/images/553.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "heroes-of-match-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/554.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-objects-lost-island-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/555.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fight-trivia",
+    "thumbnail": "https://JoyVibeZone.github.io/images/556.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "cat-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/557.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "incremental-epic-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/558.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-connect-cookware",
+    "thumbnail": "https://JoyVibeZone.github.io/images/559.webp",
+    "genre": "Cooking, Mahjong & Connect"
+  },
+  {
+    "id": "bus-escape-clear-jam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/560.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "retro-garage---car-mechanic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/561.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-object-clues-and-mysteries",
+    "thumbnail": "https://JoyVibeZone.github.io/images/562.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://JoyVibeZone.github.io/images/563.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soldiers---capture-and-control",
+    "thumbnail": "https://JoyVibeZone.github.io/images/564.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cool-girl-aesthetics",
+    "thumbnail": "https://JoyVibeZone.github.io/images/565.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "harvest-land-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gomu-goman",
+    "thumbnail": "https://JoyVibeZone.github.io/images/567.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pool-hustlers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/568.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://JoyVibeZone.github.io/images/569.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "real-fishing-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/570.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sausage-man-shooting-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/571.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-destruction-3-heroes",
+    "thumbnail": "https://JoyVibeZone.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "powerline-guardians",
+    "thumbnail": "https://JoyVibeZone.github.io/images/573.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-clash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/574.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "kingdom-wars-td",
+    "thumbnail": "https://JoyVibeZone.github.io/images/575.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "powerful-punch",
+    "thumbnail": "https://JoyVibeZone.github.io/images/576.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cake-sorting-deluxe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/577.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "grand-clash-arena",
+    "thumbnail": "https://JoyVibeZone.github.io/images/578.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "abc-pizza-maker---cooking-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/579.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plumber",
+    "thumbnail": "https://JoyVibeZone.github.io/images/580.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aces-of-the-sky-epic-dogfights",
+    "thumbnail": "https://JoyVibeZone.github.io/images/581.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-candy-merge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/582.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "sand-block-blast",
+    "thumbnail": "https://JoyVibeZone.github.io/images/583.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stunt-mania-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/584.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paws-pals-diner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/585.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "plants-vs-brain-zombies",
+    "thumbnail": "https://JoyVibeZone.github.io/images/586.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-of-psychos",
+    "thumbnail": "https://JoyVibeZone.github.io/images/587.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pushover",
+    "thumbnail": "https://JoyVibeZone.github.io/images/588.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-bow",
+    "thumbnail": "https://JoyVibeZone.github.io/images/589.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strike-force-heroes-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/590.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cowboy-lasso-hunting-idle-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/591.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://JoyVibeZone.github.io/images/592.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "sort-resort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/593.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "word-search-with-hints",
+    "thumbnail": "https://JoyVibeZone.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://JoyVibeZone.github.io/images/595.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hamstercycle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/596.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "motor-sport-challenge-type-r",
+    "thumbnail": "https://JoyVibeZone.github.io/images/597.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "path-of-survivor",
+    "thumbnail": "https://JoyVibeZone.github.io/images/598.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flip-knife",
+    "thumbnail": "https://JoyVibeZone.github.io/images/599.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "elvenrage",
+    "thumbnail": "https://JoyVibeZone.github.io/images/600.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-range-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gt-flying-car-racing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/602.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "load-the-dishes-asmr",
+    "thumbnail": "https://JoyVibeZone.github.io/images/603.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vehicle-fun-race",
+    "thumbnail": "https://JoyVibeZone.github.io/images/604.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "shoot-your-nightmare-halloween",
+    "thumbnail": "https://JoyVibeZone.github.io/images/605.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anime-boy-dress-up-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/606.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-parkour-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/607.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "the-range-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/608.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gta-grand-vegas-crime",
+    "thumbnail": "https://JoyVibeZone.github.io/images/609.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "tail-gun-charlie",
+    "thumbnail": "https://JoyVibeZone.github.io/images/610.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "color-cargo-puzzle-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/611.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "world-wars-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/612.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "meme-challengeio",
+    "thumbnail": "https://JoyVibeZone.github.io/images/613.webp",
+    "genre": ".IO, Quiz"
+  },
+  {
+    "id": "sand-blast-block-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/614.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wendy-mansion-mystery",
+    "thumbnail": "https://JoyVibeZone.github.io/images/615.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "raid-heroes-total-war-cgb",
+    "thumbnail": "https://JoyVibeZone.github.io/images/616.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-zombie-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/617.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sort-my-parking-area",
+    "thumbnail": "https://JoyVibeZone.github.io/images/618.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hole-digger-ekz",
+    "thumbnail": "https://JoyVibeZone.github.io/images/619.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://JoyVibeZone.github.io/images/620.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "marble-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/621.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-village-tower-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/622.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "math-duck",
+    "thumbnail": "https://JoyVibeZone.github.io/images/623.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/624.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://JoyVibeZone.github.io/images/625.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "the-impossible-quiz",
+    "thumbnail": "https://JoyVibeZone.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-island",
+    "thumbnail": "https://JoyVibeZone.github.io/images/627.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-blocks-asmr-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/628.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ellie-and-friends-art-bloom-aesthetic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/629.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "animal-bus-traffic-jam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/630.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "parkour-obby",
+    "thumbnail": "https://JoyVibeZone.github.io/images/631.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "tiny-cars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/632.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "war-sea",
+    "thumbnail": "https://JoyVibeZone.github.io/images/633.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "visual-memory-drag-drop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/634.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sand-blast",
+    "thumbnail": "https://JoyVibeZone.github.io/images/635.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "christmas-find-the-differences",
+    "thumbnail": "https://JoyVibeZone.github.io/images/636.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "terra-craft-world",
+    "thumbnail": "https://JoyVibeZone.github.io/images/637.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "frontline-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/638.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wheel-in-the-face",
+    "thumbnail": "https://JoyVibeZone.github.io/images/639.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "incremental-epic-breakers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/640.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slide-stone",
+    "thumbnail": "https://JoyVibeZone.github.io/images/641.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stormy-kicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/642.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-jump",
+    "thumbnail": "https://JoyVibeZone.github.io/images/643.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "time-to-park",
+    "thumbnail": "https://JoyVibeZone.github.io/images/644.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-oliver-world",
+    "thumbnail": "https://JoyVibeZone.github.io/images/645.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prune-milo",
+    "thumbnail": "https://JoyVibeZone.github.io/images/646.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spooky-tripeaks",
+    "thumbnail": "https://JoyVibeZone.github.io/images/647.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-strong-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/648.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fish-eat-getting-big",
+    "thumbnail": "https://JoyVibeZone.github.io/images/649.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-daddy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/650.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "tung-tung-sagur-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/651.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "luna-and-the-magic-maze",
+    "thumbnail": "https://JoyVibeZone.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "easter-style-junction-egg-hunt-extravaganza",
+    "thumbnail": "https://JoyVibeZone.github.io/images/653.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "fill-the-gap",
+    "thumbnail": "https://JoyVibeZone.github.io/images/654.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gluttony",
+    "thumbnail": "https://JoyVibeZone.github.io/images/655.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-sprunki-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/656.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "think-to-escape-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-balls-shooter-2048-connect-fruits",
+    "thumbnail": "https://JoyVibeZone.github.io/images/658.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "soccards",
+    "thumbnail": "https://JoyVibeZone.github.io/images/659.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-the-flash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/660.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "royal-garden-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/661.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "road-chase-shooter-realistic-guns",
+    "thumbnail": "https://JoyVibeZone.github.io/images/662.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/663.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "syntaxia",
+    "thumbnail": "https://JoyVibeZone.github.io/images/664.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-horror-story",
+    "thumbnail": "https://JoyVibeZone.github.io/images/665.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grow-a-garden---growden-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/666.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "riddle-school",
+    "thumbnail": "https://JoyVibeZone.github.io/images/667.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smash-the-car-to-pieces-lug",
+    "thumbnail": "https://JoyVibeZone.github.io/images/668.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crash-stunt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/669.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-archers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/670.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-51-secret-harvest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/671.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-car-driver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/672.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cricket-clash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/673.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stunt-racer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/674.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "western-farm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/675.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "table-tennis-open",
+    "thumbnail": "https://JoyVibeZone.github.io/images/676.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "friday-night-sprunki",
+    "thumbnail": "https://JoyVibeZone.github.io/images/677.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "chickz-stack",
+    "thumbnail": "https://JoyVibeZone.github.io/images/678.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-star-car",
+    "thumbnail": "https://JoyVibeZone.github.io/images/679.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "evil-neighbor-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/680.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "two-carts-downhill",
+    "thumbnail": "https://JoyVibeZone.github.io/images/681.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "waterworks",
+    "thumbnail": "https://JoyVibeZone.github.io/images/682.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/683.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "ballpoint",
+    "thumbnail": "https://JoyVibeZone.github.io/images/684.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "royal-puzzle-burst",
+    "thumbnail": "https://JoyVibeZone.github.io/images/685.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "practice-on-me",
+    "thumbnail": "https://JoyVibeZone.github.io/images/686.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "samurai-madness",
+    "thumbnail": "https://JoyVibeZone.github.io/images/687.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-idle-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/688.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "asmr-beauty-care",
+    "thumbnail": "https://JoyVibeZone.github.io/images/689.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fps-toy-realism",
+    "thumbnail": "https://JoyVibeZone.github.io/images/690.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "coins",
+    "thumbnail": "https://JoyVibeZone.github.io/images/691.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://JoyVibeZone.github.io/images/692.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "happy-wheels",
+    "thumbnail": "https://JoyVibeZone.github.io/images/693.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-alien-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/694.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tower-archer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/695.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crocword",
+    "thumbnail": "https://JoyVibeZone.github.io/images/696.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "catch-a-fish-obby",
+    "thumbnail": "https://JoyVibeZone.github.io/images/697.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "4-hexa",
+    "thumbnail": "https://JoyVibeZone.github.io/images/698.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "winter-tetrix-trails",
+    "thumbnail": "https://JoyVibeZone.github.io/images/699.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "castle-wars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/700.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-kitchen",
+    "thumbnail": "https://JoyVibeZone.github.io/images/701.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "summoner-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/702.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-mahjong",
+    "thumbnail": "https://JoyVibeZone.github.io/images/703.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "word-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/704.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://JoyVibeZone.github.io/images/705.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-van",
+    "thumbnail": "https://JoyVibeZone.github.io/images/706.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "doge-bubble",
+    "thumbnail": "https://JoyVibeZone.github.io/images/707.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "baby-penguin-fishing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/708.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "capybara-block-shot",
+    "thumbnail": "https://JoyVibeZone.github.io/images/709.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-game-room-with-a-lamp",
+    "thumbnail": "https://JoyVibeZone.github.io/images/710.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://JoyVibeZone.github.io/images/711.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/712.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mutant-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/713.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "match-3-dream-room",
+    "thumbnail": "https://JoyVibeZone.github.io/images/714.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "jet-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/715.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-dash-online",
+    "thumbnail": "https://JoyVibeZone.github.io/images/716.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "backwoods",
+    "thumbnail": "https://JoyVibeZone.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strange-packages",
+    "thumbnail": "https://JoyVibeZone.github.io/images/718.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://JoyVibeZone.github.io/images/719.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "pet-healer---vet-hospital",
+    "thumbnail": "https://JoyVibeZone.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/721.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-world",
+    "thumbnail": "https://JoyVibeZone.github.io/images/722.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-light-simulator-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/723.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/724.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "kitty-clickler",
+    "thumbnail": "https://JoyVibeZone.github.io/images/725.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cs-command-snipers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/726.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "pink-bart-bonte",
+    "thumbnail": "https://JoyVibeZone.github.io/images/727.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "air-strike",
+    "thumbnail": "https://JoyVibeZone.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rotate",
+    "thumbnail": "https://JoyVibeZone.github.io/images/729.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-bottles",
+    "thumbnail": "https://JoyVibeZone.github.io/images/730.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "volley-bean",
+    "thumbnail": "https://JoyVibeZone.github.io/images/731.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "push-push-cat",
+    "thumbnail": "https://JoyVibeZone.github.io/images/732.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grid-odyssey-nonograms",
+    "thumbnail": "https://JoyVibeZone.github.io/images/733.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robot-band-find-the-differences",
+    "thumbnail": "https://JoyVibeZone.github.io/images/734.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sunset-bike-racing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "highway-racer-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/736.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/737.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/738.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "obby-highest-jump-ever",
+    "thumbnail": "https://JoyVibeZone.github.io/images/739.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "gomu-goman",
+    "thumbnail": "https://JoyVibeZone.github.io/images/740.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashion-battle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/741.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-reverse",
+    "thumbnail": "https://JoyVibeZone.github.io/images/742.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-around",
+    "thumbnail": "https://JoyVibeZone.github.io/images/743.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "gun-mayhem-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/744.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "knife-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/745.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-merge-arena",
+    "thumbnail": "https://JoyVibeZone.github.io/images/746.webp",
+    "genre": "Simulation, Merge"
+  },
+  {
+    "id": "bear-haven",
+    "thumbnail": "https://JoyVibeZone.github.io/images/747.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "assassin-hero-infinity-blade",
+    "thumbnail": "https://JoyVibeZone.github.io/images/748.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-garden",
+    "thumbnail": "https://JoyVibeZone.github.io/images/749.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "whats-in-my-bag",
+    "thumbnail": "https://JoyVibeZone.github.io/images/750.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dirt-bike-mad-skills",
+    "thumbnail": "https://JoyVibeZone.github.io/images/751.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hide-and-build-a-bridge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/752.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "derbycrash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/753.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "broomcraft-mystic-evasion",
+    "thumbnail": "https://JoyVibeZone.github.io/images/754.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/755.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brain-test-iq-challenge-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/756.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gangsta-duel",
+    "thumbnail": "https://JoyVibeZone.github.io/images/757.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cat-escape-ksv",
+    "thumbnail": "https://JoyVibeZone.github.io/images/758.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "johnny-n-tommy---prank-masters",
+    "thumbnail": "https://JoyVibeZone.github.io/images/759.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fisherman-life",
+    "thumbnail": "https://JoyVibeZone.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "digital-circus-parkour-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/761.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/762.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bag-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/763.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seat-jam-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/764.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/765.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "autorpg-arena-fbu",
+    "thumbnail": "https://JoyVibeZone.github.io/images/766.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "create-a-ride",
+    "thumbnail": "https://JoyVibeZone.github.io/images/767.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "screw-nuts-bolts-wood-solve",
+    "thumbnail": "https://JoyVibeZone.github.io/images/768.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "extreme-pamplona",
+    "thumbnail": "https://JoyVibeZone.github.io/images/769.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "triple-tile-twister-match-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/770.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-the-ghost-cat",
+    "thumbnail": "https://JoyVibeZone.github.io/images/771.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "doge-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/772.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "road-of-fury-4",
+    "thumbnail": "https://JoyVibeZone.github.io/images/773.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "sea-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/774.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/775.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "find-brainrot",
+    "thumbnail": "https://JoyVibeZone.github.io/images/776.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-design-small-house",
+    "thumbnail": "https://JoyVibeZone.github.io/images/777.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "emoji-frenzy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/778.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "black-light-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/779.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "machine-room-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/780.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-visit",
+    "thumbnail": "https://JoyVibeZone.github.io/images/781.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "simon-super-rabbit",
+    "thumbnail": "https://JoyVibeZone.github.io/images/782.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "squishy-fruits",
+    "thumbnail": "https://JoyVibeZone.github.io/images/783.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "99-nights-online",
+    "thumbnail": "https://JoyVibeZone.github.io/images/784.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-walk-fail-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/785.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "quiz-squid-round",
+    "thumbnail": "https://JoyVibeZone.github.io/images/786.webp",
+    "genre": "Agility, Quiz"
+  },
+  {
+    "id": "fiveheads-soccer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/787.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "underwater-hunting",
+    "thumbnail": "https://JoyVibeZone.github.io/images/788.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "falling-art-ragdoll-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/789.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-magnat-ideal-store",
+    "thumbnail": "https://JoyVibeZone.github.io/images/790.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "paper-doll-diary-dress-up-diy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/791.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hero-transform-race",
+    "thumbnail": "https://JoyVibeZone.github.io/images/792.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://JoyVibeZone.github.io/images/793.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "doodle-smash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "childcare-master-online",
+    "thumbnail": "https://JoyVibeZone.github.io/images/795.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "big-shark",
+    "thumbnail": "https://JoyVibeZone.github.io/images/796.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tech-mart-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/797.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drivetown",
+    "thumbnail": "https://JoyVibeZone.github.io/images/798.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/799.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-rodeo-multiplication",
+    "thumbnail": "https://JoyVibeZone.github.io/images/800.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "obby-football-soccer-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/801.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "traffic-tap-survival",
+    "thumbnail": "https://JoyVibeZone.github.io/images/802.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-zoo-monkey",
+    "thumbnail": "https://JoyVibeZone.github.io/images/803.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://JoyVibeZone.github.io/images/804.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hole-and-fill-collect-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/805.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jixora-jigsaw-solitaire-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/806.webp",
+    "genre": "Jigsaw, Strategy"
+  },
+  {
+    "id": "gun-master-3d---fps-shooting-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/807.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-land",
+    "thumbnail": "https://JoyVibeZone.github.io/images/808.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-zombie-wave",
+    "thumbnail": "https://JoyVibeZone.github.io/images/809.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tankcraft-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/810.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-girl-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/811.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/812.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stacking-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/813.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "soccer-legends-2021",
+    "thumbnail": "https://JoyVibeZone.github.io/images/814.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://JoyVibeZone.github.io/images/815.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "gym-simulator-2024",
+    "thumbnail": "https://JoyVibeZone.github.io/images/816.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-gun-survivor",
+    "thumbnail": "https://JoyVibeZone.github.io/images/817.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worldguessr",
+    "thumbnail": "https://JoyVibeZone.github.io/images/818.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sort-it-uei",
+    "thumbnail": "https://JoyVibeZone.github.io/images/819.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bouncy-egg",
+    "thumbnail": "https://JoyVibeZone.github.io/images/820.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "base-jump-wing-suit-flying",
+    "thumbnail": "https://JoyVibeZone.github.io/images/821.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-game-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/822.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "star-stuff",
+    "thumbnail": "https://JoyVibeZone.github.io/images/823.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roller-coaster-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/824.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://JoyVibeZone.github.io/images/825.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-brainrot-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/826.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "escape-the-dog",
+    "thumbnail": "https://JoyVibeZone.github.io/images/827.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "agent-hunt-spy-shooter-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/828.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "wave-dash-geometry-arrow",
+    "thumbnail": "https://JoyVibeZone.github.io/images/829.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "loaders-inc-mrb",
+    "thumbnail": "https://JoyVibeZone.github.io/images/830.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lucy-all-season-fashioninsta",
+    "thumbnail": "https://JoyVibeZone.github.io/images/831.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "destructors-online",
+    "thumbnail": "https://JoyVibeZone.github.io/images/832.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "penalty-shooters",
+    "thumbnail": "https://JoyVibeZone.github.io/images/833.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-miner-2-escape-form-prison",
+    "thumbnail": "https://JoyVibeZone.github.io/images/834.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-warrior-parkour",
+    "thumbnail": "https://JoyVibeZone.github.io/images/835.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-toilet-line",
+    "thumbnail": "https://JoyVibeZone.github.io/images/836.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://JoyVibeZone.github.io/images/837.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://JoyVibeZone.github.io/images/838.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "basket-sport-stars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/839.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "monster-collect-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/840.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "basket-battle-zmg",
+    "thumbnail": "https://JoyVibeZone.github.io/images/841.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-plane-landing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/842.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "police-car-line-driving",
+    "thumbnail": "https://JoyVibeZone.github.io/images/843.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "scary-pairs",
+    "thumbnail": "https://JoyVibeZone.github.io/images/844.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-fantasy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/845.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "kuzbass-horror",
+    "thumbnail": "https://JoyVibeZone.github.io/images/846.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "going-balls-adventure-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/847.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/848.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "krewio",
+    "thumbnail": "https://JoyVibeZone.github.io/images/849.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-kitchen-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/850.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzles-balls-merge-the-new-year",
+    "thumbnail": "https://JoyVibeZone.github.io/images/851.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-final-riddle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/852.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-farm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/853.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://JoyVibeZone.github.io/images/854.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squidgameio",
+    "thumbnail": "https://JoyVibeZone.github.io/images/855.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "us-army-car-games-truck-driving",
+    "thumbnail": "https://JoyVibeZone.github.io/images/856.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "las-vegas-poker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/857.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "squadblast",
+    "thumbnail": "https://JoyVibeZone.github.io/images/858.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://JoyVibeZone.github.io/images/859.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://JoyVibeZone.github.io/images/860.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bloons-tower-defense-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/861.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-capybara",
+    "thumbnail": "https://JoyVibeZone.github.io/images/862.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "western-shooter-battle-gun-duel",
+    "thumbnail": "https://JoyVibeZone.github.io/images/863.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-x3m",
+    "thumbnail": "https://JoyVibeZone.github.io/images/864.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nautilus-spaceship-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/865.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "escape-series",
+    "thumbnail": "https://JoyVibeZone.github.io/images/866.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "speedboy-history-with-grandfather-sri",
+    "thumbnail": "https://JoyVibeZone.github.io/images/867.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "claw-merge-labubu-drop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/868.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fire-truck-driving-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/869.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "candy-carver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/870.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "a-grim-granny",
+    "thumbnail": "https://JoyVibeZone.github.io/images/871.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/872.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-bike-stunts-pvp",
+    "thumbnail": "https://JoyVibeZone.github.io/images/873.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-planets",
+    "thumbnail": "https://JoyVibeZone.github.io/images/874.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "animal-sort-cute-puzzle-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/875.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-fever",
+    "thumbnail": "https://JoyVibeZone.github.io/images/876.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "celebrity-aesthetic-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/877.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "3d-flight-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/878.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lucky-life",
+    "thumbnail": "https://JoyVibeZone.github.io/images/879.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-match-balls",
+    "thumbnail": "https://JoyVibeZone.github.io/images/880.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "br-br-patapim-obby-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/881.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "obby-dead-river",
+    "thumbnail": "https://JoyVibeZone.github.io/images/882.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "blastify-ii",
+    "thumbnail": "https://JoyVibeZone.github.io/images/883.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "auto-ninja",
+    "thumbnail": "https://JoyVibeZone.github.io/images/884.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "block-eating-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/885.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "connect-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/886.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://JoyVibeZone.github.io/images/887.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://JoyVibeZone.github.io/images/888.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "the-noob-aventures",
+    "thumbnail": "https://JoyVibeZone.github.io/images/889.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "wild-animal-zoo-city-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/890.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://JoyVibeZone.github.io/images/891.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "asmr-beauty-treatment",
+    "thumbnail": "https://JoyVibeZone.github.io/images/892.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "water-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/893.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "go-kart-racing-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/894.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "eco-block-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/895.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/896.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "room-escape-strange-case",
+    "thumbnail": "https://JoyVibeZone.github.io/images/897.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-lines",
+    "thumbnail": "https://JoyVibeZone.github.io/images/898.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "bubble-shooter-witch-tower",
+    "thumbnail": "https://JoyVibeZone.github.io/images/899.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/900.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/901.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-cards-the-legend-hunt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/902.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mega-shark",
+    "thumbnail": "https://JoyVibeZone.github.io/images/903.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "reach-2048",
+    "thumbnail": "https://JoyVibeZone.github.io/images/904.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "classic-mine-sweeper",
+    "thumbnail": "https://JoyVibeZone.github.io/images/905.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-pipe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/906.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drift-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/907.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-out-maze-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/908.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "glacier-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/909.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "domino-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/910.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shape-transforming-shifting-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/911.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "shanghai-chef",
+    "thumbnail": "https://JoyVibeZone.github.io/images/912.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/913.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "knit-bears",
+    "thumbnail": "https://JoyVibeZone.github.io/images/914.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "horse-riding-simulator-dgp",
+    "thumbnail": "https://JoyVibeZone.github.io/images/915.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fast-ball-jump",
+    "thumbnail": "https://JoyVibeZone.github.io/images/916.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "last-war-survival",
+    "thumbnail": "https://JoyVibeZone.github.io/images/917.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-dragons-vs-knights",
+    "thumbnail": "https://JoyVibeZone.github.io/images/918.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archery-legends",
+    "thumbnail": "https://JoyVibeZone.github.io/images/919.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "stickman-choosing-actions",
+    "thumbnail": "https://JoyVibeZone.github.io/images/920.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ragdoll-show-throw-break-and-destroy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/921.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sort-n-hold-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/922.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "steam-heart-nqh",
+    "thumbnail": "https://JoyVibeZone.github.io/images/923.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cards-klondike-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/924.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "heist-defender",
+    "thumbnail": "https://JoyVibeZone.github.io/images/925.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "kings-and-queens-match-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/926.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dreamspace",
+    "thumbnail": "https://JoyVibeZone.github.io/images/927.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-shooter-gun-battle-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/928.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "brainrot-boing-boing-merge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/929.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "grow-tower",
+    "thumbnail": "https://JoyVibeZone.github.io/images/930.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-out-jam-parking-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/931.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-masters-euro-2020",
+    "thumbnail": "https://JoyVibeZone.github.io/images/932.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "charger-city-driver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/933.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mystical-blade",
+    "thumbnail": "https://JoyVibeZone.github.io/images/934.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-warrior-way",
+    "thumbnail": "https://JoyVibeZone.github.io/images/935.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "geosplash-wdd",
+    "thumbnail": "https://JoyVibeZone.github.io/images/936.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "i-am-quadrober",
+    "thumbnail": "https://JoyVibeZone.github.io/images/937.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ink-shop-dress-tattoo-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/938.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-fall",
+    "thumbnail": "https://JoyVibeZone.github.io/images/939.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blast-miner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/940.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-sort-grocery-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/941.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-guys",
+    "thumbnail": "https://JoyVibeZone.github.io/images/942.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/943.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "weapon-toss",
+    "thumbnail": "https://JoyVibeZone.github.io/images/944.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/945.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "donut-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/946.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "house-robber",
+    "thumbnail": "https://JoyVibeZone.github.io/images/947.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-dna-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/948.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mancala-classic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/949.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/950.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-shape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/951.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "solar-smash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/952.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aidan-in-danger",
+    "thumbnail": "https://JoyVibeZone.github.io/images/953.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "bowling-stars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/954.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://JoyVibeZone.github.io/images/955.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://JoyVibeZone.github.io/images/956.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "high-heel-design",
+    "thumbnail": "https://JoyVibeZone.github.io/images/957.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "nightmare-couple-halloween-party",
+    "thumbnail": "https://JoyVibeZone.github.io/images/958.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "arrow-count-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/959.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cameraman-vs-toilets-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/960.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chibi-doll-avatar-creator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/961.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/962.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "monster-battle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/963.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-room-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/964.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mad-royale-tactics",
+    "thumbnail": "https://JoyVibeZone.github.io/images/965.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snow-rush-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/966.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "city-blocks",
+    "thumbnail": "https://JoyVibeZone.github.io/images/967.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murder",
+    "thumbnail": "https://JoyVibeZone.github.io/images/968.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unmatched-ego---soccer-action",
+    "thumbnail": "https://JoyVibeZone.github.io/images/969.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "behold-battle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/970.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-colors",
+    "thumbnail": "https://JoyVibeZone.github.io/images/971.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bad-dolls",
+    "thumbnail": "https://JoyVibeZone.github.io/images/972.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lexy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/973.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://JoyVibeZone.github.io/images/974.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://JoyVibeZone.github.io/images/975.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crazy-walk",
+    "thumbnail": "https://JoyVibeZone.github.io/images/976.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/977.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2-player-games-kids-kitchen",
+    "thumbnail": "https://JoyVibeZone.github.io/images/978.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "squirrel-with-a-gun",
+    "thumbnail": "https://JoyVibeZone.github.io/images/979.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bullet-fury-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/980.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mysterious-familiars-enchanted-bestiary",
+    "thumbnail": "https://JoyVibeZone.github.io/images/981.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/982.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hoard-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/983.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "living-cannon-dx",
+    "thumbnail": "https://JoyVibeZone.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "move-emoji",
+    "thumbnail": "https://JoyVibeZone.github.io/images/985.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "squid-game-memory-card-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/986.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bang-bang-mahjong",
+    "thumbnail": "https://JoyVibeZone.github.io/images/987.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "winter-cosmofest",
+    "thumbnail": "https://JoyVibeZone.github.io/images/988.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "park-me-draw-path",
+    "thumbnail": "https://JoyVibeZone.github.io/images/989.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tunnel-runner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/990.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unfold-escape-room-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/991.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burger-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/992.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "rope-rescue-unique-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/993.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brawl-frenzy-fight-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/994.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dan-the-man",
+    "thumbnail": "https://JoyVibeZone.github.io/images/995.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "real-cars-epic-stunts",
+    "thumbnail": "https://JoyVibeZone.github.io/images/996.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "honk",
+    "thumbnail": "https://JoyVibeZone.github.io/images/997.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-to-fish-fight",
+    "thumbnail": "https://JoyVibeZone.github.io/images/998.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "c-virus-game-outbreak",
+    "thumbnail": "https://JoyVibeZone.github.io/images/999.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rummy-500-card-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1000.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "candy-monster-raffi",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1001.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "animal-racing-idle-park",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1002.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bird-flight-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1003.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "halloween-match-trio",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1004.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stealth-master-sneak-cat",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1005.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "clap-clap-nightmare",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1006.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "brawl-stars-sound",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1007.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "stick-rope-hero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1008.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1009.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "tank-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1010.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "solitaires-crime-stories",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1011.webp",
+    "genre": "Adventure, Cards"
+  },
+  {
+    "id": "tropical-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1012.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "biking-extreme-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1013.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mining-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1014.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-parking-stunt-games-2024",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1015.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "magic-chop-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1016.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anime-couple-dress-up",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1017.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "phone-case-diy-5",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1018.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "neon-nexus-starship-evolution",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1019.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fruit-catcher",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1020.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "finger-fury-flashmaster",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1021.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spotti-find-the-differences",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1022.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dunk-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1023.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "hidden-objects",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1024.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1025.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gangster-crimes-online-6-mafia-city",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1026.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "waterpark-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1027.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "chicken-strike",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1028.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "idle-blogger-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1029.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "words-of-wonders",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1030.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-the-numbers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1031.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-again-dtq",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1032.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-blast-block-puzzle-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1033.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "meme-mukbang-asmr-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1034.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "panda-kitchen-idle-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1035.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "number-place-travel",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1036.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-joe-secret-of-the-stones",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1037.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rovercraft",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1038.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vex-9",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1039.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "lucky-tower",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1040.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brother-wake-up",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1041.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chess-clicker-lhi",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1042.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-zed",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1043.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hypersomnia",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1044.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "a-dark-room",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1045.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-orcs",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1046.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mad-dash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1047.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "hyper-wave-trial",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1048.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lights-out",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1049.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "craft-world-building-games",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1050.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-europe-quiz",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1051.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flow-mania",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1052.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-vintage",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1053.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "idle-gun-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1054.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-out",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1055.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-object-great-journey",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1056.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tornado-madness",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1057.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-pop-classic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1058.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grocery-shop-supermarket-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1059.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dice-merge-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1060.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kick-loser",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1061.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hamster-combo-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1062.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "peg-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1063.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "merge-blocks-2048-style",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1064.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "robo-runner",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1065.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "marble-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1066.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sorcerer-mahjong-marvels",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1067.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "toy-rumble-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1068.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fantasy-math-number",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1069.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "war-the-knights",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1070.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-space-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1071.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "playground",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1072.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ladder-master-color-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1073.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ball-blaster",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1074.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1075.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gem-deep-digger",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1076.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cloudy-with-a-chance-of-kittens",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1077.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "afk-dungeon-zaq",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1078.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-kitties-catworld",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1079.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basketball-league",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1080.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "metro-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1081.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-dead-river",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1082.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mind-gambit",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1083.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "papa-louie",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1084.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "khan-wars",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1085.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seeing-things",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1086.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "count-master-match-color-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1087.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nuts-stack-sort-nuts-bolts",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1088.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stunt-bike-rider-bros",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1089.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "tap-supermarket",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1090.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-little-farm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1091.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "goodeluxe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1092.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "russian-kamaz-truck-driver",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1093.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "day-of-atrocity",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1094.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "total-crush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1095.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "harvest-kings",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1096.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "starry-style-dorama-of-dream",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1097.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "snooker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1098.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-box-brain-fun",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1099.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-maze",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1100.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blogger-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1101.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jelly-puzzle-bbd",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1102.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skeleton-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1103.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "senya-and-oscar-pirate-island",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1104.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1105.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ninja-spell-match",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1106.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "memory-cards-sni",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1107.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tankflow-io-ujm",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1108.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logic-storm-animals-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1109.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grand-action-simulator-new-york-car-gang",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1110.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "isometric-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1111.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crystalia-idle-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1112.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "delven",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1113.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-eats-car-volcanic-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1114.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-fun-fishing",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1115.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "coin-color-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1116.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "maze-planet-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1117.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "real-gt-racing-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1118.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1119.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "perfect-drive",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "miners-adventure",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1121.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "perfect-job-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1122.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1123.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cooking-live",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1124.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dashcraft-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1125.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1126.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "light-line",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1127.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-truck-demolition-derby",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1128.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-one-part-brain-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1129.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-mine-fuse-tnt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1130.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fortress-of-the-wizard-mfx",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1131.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-pop-frenzy-dnt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1132.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1133.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "draw-climb-race-the-ultimate-hill-climbing-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1134.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "just-mahjong",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1135.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "horror-hotel-scary-room",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1136.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "exit-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1137.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ringo-starfish",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1138.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tailor-stylist-fashion-diary",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1139.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roblox-craft-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1140.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "frog-byte",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1141.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tankcraft",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1142.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "power-blocks",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1143.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "euro-truck-driving-simulator-2025",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1144.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tri-peaks-emerland-solitaire",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1145.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "kiomet-com",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1146.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "superstar-college-girls-makeover",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1147.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-loop",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1148.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "21-cards",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1149.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "fall-ball-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1150.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "square-world-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1151.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "commit-battery-3",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1152.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hypermarket-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1153.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paperwario",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1154.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "dirty-them-all",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1155.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-car-defense",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1156.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "card-battle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1157.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "mega-ramp-car-game-car-stunts",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1158.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "knife-madness",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1159.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "collect-em-all",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1160.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "facechart",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1161.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "aqua-blitz-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1162.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "panda-shop-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1163.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "raccoon-retail",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1164.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slice-it-up",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1165.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "math-expressions",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1166.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "motor-tour",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1167.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "stickman-project-bnw",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1168.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mad-town-andreas-mafia-storie",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1169.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dynamons-connect",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1170.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "destiny-king-vtg",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1171.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "live-avatar-maker-girls",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1172.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "splatmans",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1173.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-battle-simulator-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1174.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cut-the-rope-magic",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1175.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "street-food-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1176.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forge-and-fortune",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1177.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "finger-soccer-tournament",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1178.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "core-defender-iam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1179.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-lunch",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1180.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cyber-rage-retribution",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1181.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "egg-folks-multiplayer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1182.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "throw-a-lucky-block",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1183.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sort-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1184.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "nuts-bolts-unscrew-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1185.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warfare-1917",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1186.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-journey",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1187.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ship-ramp-jumping",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1188.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "body-care-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1189.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "skydom-reforged",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1190.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swat-cats-shooter",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1191.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1192.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "obby-prison-run",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1193.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "cosmic-dash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1194.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1195.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "axis-football-league",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1196.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fish-catch-idle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1197.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-sauce",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1198.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mini-crushers",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1199.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slinky-color-sort",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1200.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1201.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "egg-hunt-mania",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1202.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-a-fruit",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1203.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1204.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "bullet-superhero",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1205.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "bus-escape-clear-jam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1206.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-hero-tycoon",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1207.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stacky-bird",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1208.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cubidle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1209.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1210.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-outbreak-arena",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1211.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magnet-balls-addictive-zps",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1212.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-ragdoll-crazy-punch",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1213.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "immortal-dark-slayer",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1214.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pizza-truck-jigsaw",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1215.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toy-assembly-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1216.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "brainrot-cleaning",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1217.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "save-the-hostages",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1218.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unicorn-family-simulator-magic-world",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1219.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-brawl---room-smash",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1220.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blockbuster-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1221.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrow-exit-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1222.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scary-shawarma-kiosk-the-anomaly",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1223.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-bouncy-ball",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1224.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "truck-driving-simulator-game",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1225.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-escape-prison-rat-dance",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1226.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spinning-uia-uia-cat-bricker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1227.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "aquapark-io-yky",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1228.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "evony-the-kings-return",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1229.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "traffic-cop-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1230.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "math-wall-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1231.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "super-tic-tac-toe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1232.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "epic-stunts-pvp-3d",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1233.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "dark-odyssey-lzc",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1234.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tiktok-street-style",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1235.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "capybara-go",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1236.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "street-racer-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1237.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-dig-brainrots",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1238.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1239.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tile-match-cafe",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1240.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wacky-wheels",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1241.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "city-banana-man-agent",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1242.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "dictator-simulator-1984",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1243.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "harvest-glam",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1244.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "free-rally",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1245.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swap-color",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1246.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tappy-bird-avoid-the-spikes",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1247.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ugc-math-race",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1248.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "pencil-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1249.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sheep-vs-wolf",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1250.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "racing-unlimited",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1251.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "while-we-sleep-slendrina-is-here",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1252.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-house",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1253.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-blox-hook",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1254.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "digital-circus-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1255.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "laqueus-escape-chapter-ii",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1256.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blackchain",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1257.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "trial-mania",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1258.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "granny-3-return-the-school",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1259.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "paint-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1260.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1261.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "a-grim-chase",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1262.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "road-of-fury-4-kdg",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1263.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pin-master",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1264.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "daily-a-maze-balls",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1265.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hangman-cfc",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1266.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "overtide-io",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1267.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-rush",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1268.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gangsters",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1269.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-sculpt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1270.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1271.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainrot-hole",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1272.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1273.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1274.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "angry-plants-flower",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1275.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "trading-games-playtime",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1276.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "tile-connect-pair-match-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1277.webp",
+    "genre": "Puzzle, .IO"
+  },
+  {
+    "id": "the-final-earth-2",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1278.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1279.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "obby-rescue-mission",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1280.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "age-of-arms",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1281.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-heroes",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1282.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "steam-city",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1283.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tankgank-com",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1284.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "free-hoops",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1285.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "monster-merge-legends-alive",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1286.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "traffic-parking",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1287.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dino-ranch",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1288.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "gas-station---stick-simulator",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1289.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ball-mania",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1290.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "superhero-drop-and-save",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1291.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "parking-jam-escape",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1292.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "whats-grandma-hiding",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1293.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "mr-pako---car-chase-simulator-nrt",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1294.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "container-sort-puzzle",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1295.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "packing-line",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1296.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hard-wheels",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1297.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "evo-gears",
+    "thumbnail": "https://JoyVibeZone.github.io/images/1298.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
